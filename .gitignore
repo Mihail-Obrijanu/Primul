@@ -1,0 +1,4 @@
+#Pyton template
+log/
+*.py[cod]
+docker-compose.yaml
